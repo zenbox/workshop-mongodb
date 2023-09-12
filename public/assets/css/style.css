@@ -1,0 +1,28 @@
+.note {
+  display: block;
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  background: black;
+  color: white;
+  padding: 1rem;
+  animation: note 2s ease-in-out;
+  font-family: Menlo, monospace;
+  font-size: 0.75rem;
+  box-shadow: -0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.5);
+  border-radius: 0.25rem;
+}
+@keyframes note {
+  0% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
