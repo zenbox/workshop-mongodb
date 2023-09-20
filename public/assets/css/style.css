@@ -1,28 +1,92 @@
 .note {
-  display: block;
-  position: absolute;
-  right: 1rem;
-  top: 1rem;
-  background: black;
-  color: white;
-  padding: 1rem;
-  animation: note 2s ease-in-out;
-  font-family: Menlo, monospace;
-  font-size: 0.75rem;
-  box-shadow: -0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.5);
-  border-radius: 0.25rem;
+    display: block;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    background: black;
+    color: white;
+    padding: 1rem;
+    animation: note 2s ease-in-out;
+    font-family: Menlo, monospace;
+    font-size: 0.75rem;
+    box-shadow: -0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.5);
+    border-radius: 0.25rem;
 }
 @keyframes note {
-  0% {
-    opacity: 0;
-  }
-  10% {
-    opacity: 1;
-  }
-  90% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 0;
-  }
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 1;
+    }
+    90% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+html {
+    font-family: Barlow, sans-serif;
+    font-size: 13px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+tr {
+    border-bottom: 1px solid hsla(0, 0%, 87%, 0.4);
+}
+tr:last-child {
+    border-bottom: none;
+}
+tr:nth-child(even) {
+    background-color: hsla(0, 0%, 95%, 0.6);
+}
+tr:nth-child(odd) {
+    background-color: hsla(0, 0%, 55%, 0.6);
+}
+th,
+td {
+    padding: 0.25rem;
+}
+tr:hover {
+    background-color: #ddd;
+}
+th {
+    background-color: hsla(142, 81%, 23%, 0.4);
+    color: white;
+    padding-block: 1rem;
+    font-weight: 500;
+}
+td:nth-child(1) {
+    color: #858585;
+    font-size: 0.75rem;
+}
+td:nth-child(2) {
+    font-weight: 500;
+}
+td:nth-child(4)::after {
+    content: " kg";
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 100;
+}
+html {
+    background-image: url("../figures/grass.jpeg");
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    margin: 0;
+
+    width: clamp(24rem, 100%, 48rem);
 }

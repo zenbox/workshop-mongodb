@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 65.437 73.827" xmlns="http://www.w3.org/2000/svg">
+  <g class="sheep" style=" stroke-width: 3px; fill: none; stroke: rgb(127,127,127);" transform="matrix(1, 0, 0, 1, -283.452515, -124.971687)">
+    <ellipse cx="322.52" cy="155.361" rx="12.689" ry="16.586"/>
+    <line style="transform-origin: 309.056px 176.962px;" x1="309.809" y1="164.229" x2="308.304" y2="189.695"/>
+    <ellipse cx="316.371" cy="140.836" rx="9.913" ry="9.232"/>
+    <ellipse cx="307.858" cy="156.798" rx="11.053" ry="10.685"/>
+    <ellipse cx="309.072" cy="147.239" rx="11.529" ry="9.601"/>
+    <line style="transform-origin: 328.55px 178.29px;" x1="329.303" y1="165.557" x2="327.798" y2="191.023"/>
+    <line style="transform-origin: 301.257px 174.586px;" x1="302.01" y1="161.853" x2="300.505" y2="187.319"/>
+    <line style="transform-origin: 316.369px 176.799px;" x1="317.122" y1="164.066" x2="315.617" y2="189.532"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 65.437 73.827" xmlns="http://www.w3.org/2000/svg">
+  <line style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none; transform-origin: 26.546px 52.284px;" x1="27.299" y1="39.551" x2="25.794" y2="65.017"/>
+  <ellipse cx="43.491" cy="19.471" rx="7.536" ry="6.935" style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;"/>
+  <line style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none; transform-origin: 23.133px 50.136px;" x1="23.886" y1="37.403" x2="22.381" y2="62.869"/>
+  <line style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none; transform-origin: 33.859px 52.121px;" x1="34.612" y1="39.388" x2="33.107" y2="64.854"/>
+  <path style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;" d="M 20.633 11.793 L 25.172 21.455"/>
+  <path style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;" d="M 29.8 16.227 L 34.339 25.889"/>
+  <path style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;" d="M 24.939 24.585 L 29.478 34.247"/>
+  <path style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;" d="M 31.777 25.297 L 36.316 34.959"/>
+  <path style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;" d="M 37.898 22.219 L 42.437 31.881"/>
+  <path style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;" d="M 32.144 9.252 L 36.683 18.914"/>
+  <path style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;" d="M 38.392 33.408 L 42.931 43.07"/>
+  <path style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;" d="M 32.494 36.971 L 37.033 46.633"/>
+  <path style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;" d="M 26.158 36.239 L 30.697 45.901"/>
+  <path style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;" d="M 18.716 37.402 L 23.255 47.064"/>
+  <path style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;" d="M 17.713 27.51 L 22.252 37.172"/>
+  <path style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;" d="M 17.617 18.886 L 22.156 28.548"/>
+  <ellipse cx="15.759" cy="34.856" rx="2.202" ry="2.026" style="stroke: rgb(103, 103, 103); stroke-width: 3px; fill: none;"/>
+</svg>

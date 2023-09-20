@@ -1,4 +1,4 @@
-export default Api { 
+export default class Api {
     /* Write a mongodb class, that handle alle CRUD operations.*/
     constructor() {
         this.url = "http://localhost:3000";
@@ -41,6 +41,4 @@ export default Api {
         const res = await response.json();
         return res;
     }
-    
-
 }

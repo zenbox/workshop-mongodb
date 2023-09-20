@@ -6,7 +6,7 @@
     "editor.formatOnType": true,
 
     // LIVE SERVER
-    "liveServer.settings.port": 5505,
+    "liveServer.settings.port": 5506,
 
     // LIVE SASS COMPILER
     "liveSassCompile.settings.formats": [
